@@ -176,3 +176,9 @@ claude-flow
 # Removed Windows wrapper files per user request
 hive-mind-prompt-*.txt
 *.bak
+
+# Agent workspace artifacts
+.codex/
+.hermes/
+.planning/e2e/results/
+agentic-os.config.json
