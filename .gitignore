@@ -183,3 +183,4 @@ hive-mind-prompt-*.txt
 .planning/e2e/results/
 agentic-os.config.json
 .env.production
+AGENTS.md
